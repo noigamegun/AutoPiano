@@ -5,6 +5,8 @@ This Will Help You!
 1. Download AHK At https://www.autohotkey.com
 2. Download Main File At https://github.com/noigamegun/AutoPiano/raw/main/AutoPiano.exe
 3. Enjoy!
+# how to use
+[Click Here](https://drive.google.com/file/d/1Ps6ZdL0Q45VxMbQN9mitMWQNPMuTvIwx/view?usp=sharing)
 # UI (User interface)
 When you open for first time you will see this.
 [Click Here](https://user-images.githubusercontent.com/76461912/132114278-7ad73425-59e3-4188-893c-ad75f24071d3.png)
