@@ -3,7 +3,7 @@ Do You Want To Pro At Piano At Roblox Cus You Not Win RGT?
 This Will Help You!
 # How to Install!
 1. Download AHK At https://www.autohotkey.com
-2. Download Main File At https://github.com/noigamegun/AutoPiano/raw/main/AutoPiano.exe
+2. Download Main File At https://github.com/noigamegun/AutoPiano/releases/download/v.1.0.0/AutoPiano.exe
 3. Enjoy!
 # how to use
 [Click Here](https://drive.google.com/file/d/1Ps6ZdL0Q45VxMbQN9mitMWQNPMuTvIwx/view?usp=sharing)
