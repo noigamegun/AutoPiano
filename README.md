@@ -16,8 +16,6 @@ When you open for first time you will see this.
        1. https://trello.com/b/L6NceibB/virtual-roblox-piano-sheets
        2. https://virtualpiano.net/music-sheets/#dismissed
        (SOME SHEETS MAY NOT WORKS)
- 
- # Support
-https://noigamegun.tawk.help/
+
 
 
